@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Notes
 
-The biggest challenge was the fact that I own an android and my iOS simulator proved to be extremeley slow. Towards the end I couldn't even get to see my finished app because it crashed so much, which made it really hard to implement any further features or make a video walkthrough unfortunately. Other than that, Swift wasn't too bad and I'm slowly warming up to it. 
+The biggest challenge I faced was the fact that I own an android and my iOS simulator proved to be extremeley slow. Towards the end I couldn't even get to see my finished app because it crashed before getting there, which made it really hard to implement any further features or make a video walkthrough unfortunately. Other than that, Swift wasn't too bad and I'm slowly warming up to it. 
 
 ## License
 
